@@ -12,7 +12,7 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="..\B2R2\src\RearEnd\BinDump\B2R2.RearEnd.BinDump.fsproj" />
+    <PackageReference Include="B2R2.FrontEnd.BinInterface" Version="0.5.0" />
   </ItemGroup>
 
 
