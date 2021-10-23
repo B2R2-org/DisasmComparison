@@ -14,7 +14,7 @@ distros as follows.
 
 # Comparison Targets
 
-We compare B2R2 against three .NET-based tools. For Capstone, we used both the
+We compare B2R2 (v0.5.0) against three .NET-based tools. For Capstone, we used both the
 Python version and .NET version.
 
 - [Iced](https://github.com/0xd4d/iced/)
